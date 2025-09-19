@@ -1,1 +1,1 @@
-faq
+faq about the Nexa repositories.
