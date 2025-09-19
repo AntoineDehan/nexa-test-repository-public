@@ -6,7 +6,7 @@
 
 # 📖 Readme
 
-Bienvenue dans le Readme du projet tout le monde !
+Salut et bienvenue dans le Readme du projet tout le monde !
 Vous trouverez ici des ressources en **français** et en **anglais**.
 
 ---
